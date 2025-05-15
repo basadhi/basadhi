@@ -1,12 +1,26 @@
 ### Hi there 👋 I'm Basadi
 
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/yourname)
+🎓 I’m a final-year undergraduate student in the **Department of Computer Science and Engineering**, specializing in **Data Science and Engineering**.
+
+---
+
+### 🔭 Current Interests
+- 🧠 Large Language Models (LLMs)
+- 👁️ Computer Vision
+- 🌐 Full-Stack Development
+- ☁️ Cloud & DevOps
 
 ---
 
 ### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-NLP-green?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-blue?style=flat)
 
 ---
 
@@ -14,18 +28,19 @@
 ![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basadi&layout=compact)](https://github.com/basadi)
 
+![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&theme=radical)
 
-<!--
-**basadhi/basadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&count_private=true&theme=radical)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com?user=basadi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=basadi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Portfolio](https://basadhi.github.io/portflio/)
