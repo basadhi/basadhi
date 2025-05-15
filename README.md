@@ -28,16 +28,11 @@
 ![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basadi&layout=compact)](https://github.com/basadi)
 
-![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&theme=radical)
-
-![Basadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basadi&show_icons=true&count_private=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=basadi&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=basadi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
